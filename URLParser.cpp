@@ -8,7 +8,6 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 	displayVersion();
-
 	string url = argv[1];
 	
 	// Variables for website parts
